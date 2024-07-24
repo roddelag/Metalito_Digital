@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap');
+
 .main {
   display: flex;
   flex-direction: column;
@@ -234,6 +237,9 @@
   font-weight: bold;
   text-align: center;
   margin: 20px 0;
+  font-family: 'Orbitron', sans-serif; /* Add this line */
+
+
 }
 
 .mediumText {
